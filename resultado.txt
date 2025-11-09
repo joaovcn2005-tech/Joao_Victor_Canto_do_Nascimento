@@ -1,3 +1,0 @@
-Aluno: Joao Victor Canto do Nascimento
-Projeto: Flexbox
-Link de publicação: https://joaovictorcanto-flexbox.netlify.app
